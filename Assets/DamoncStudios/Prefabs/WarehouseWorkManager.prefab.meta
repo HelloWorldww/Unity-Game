@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 47ac4b1696d4ae34fbbed777df56ee4c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236665
+  packageName: Idle Farmer Game (Tycoon Template)
+  packageVersion: 1.0
+  assetPath: Assets/DamoncStudios/Prefabs/WarehouseWorkManager.prefab
+  uploadId: 543304

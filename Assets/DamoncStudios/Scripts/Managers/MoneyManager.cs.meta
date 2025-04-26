@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f61f1f6d094c3b14cbe838575b1268c0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236665
+  packageName: Idle Farmer Game (Tycoon Template)
+  packageVersion: 1.0
+  assetPath: Assets/DamoncStudios/Scripts/Managers/MoneyManager.cs
+  uploadId: 543304

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db82b4ec3e380bc4f88b3a8c02c4595c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236665
+  packageName: Idle Farmer Game (Tycoon Template)
+  packageVersion: 1.0
+  assetPath: Assets/DamoncStudios/ScriptableObjects/HarvestItems/5Strawberry.asset
+  uploadId: 543304

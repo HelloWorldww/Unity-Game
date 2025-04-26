@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5f9603262b07b8448ae9d77ebae00f11
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236665
+  packageName: Idle Farmer Game (Tycoon Template)
+  packageVersion: 1.0
+  assetPath: Assets/DamoncStudios/ScriptableObjects/Upgrade/FarmHouseInfo.asset
+  uploadId: 543304

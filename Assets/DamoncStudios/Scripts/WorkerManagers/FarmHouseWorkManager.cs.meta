@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 33091967b3d4c1c4db6ddba337a79264
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236665
+  packageName: Idle Farmer Game (Tycoon Template)
+  packageVersion: 1.0
+  assetPath: Assets/DamoncStudios/Scripts/WorkerManagers/FarmHouseWorkManager.cs
+  uploadId: 543304

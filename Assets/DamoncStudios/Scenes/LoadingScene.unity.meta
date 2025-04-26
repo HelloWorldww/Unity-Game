@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ad016102c41adf442bfe8a3ca376c2bc
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236665
+  packageName: Idle Farmer Game (Tycoon Template)
+  packageVersion: 1.0
+  assetPath: Assets/DamoncStudios/Scenes/LoadingScene.unity
+  uploadId: 543304

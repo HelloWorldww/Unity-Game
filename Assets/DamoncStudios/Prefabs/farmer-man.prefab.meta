@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b0b469833a7063d4688cca721712c84f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236665
+  packageName: Idle Farmer Game (Tycoon Template)
+  packageVersion: 1.0
+  assetPath: Assets/DamoncStudios/Prefabs/farmer-man.prefab
+  uploadId: 543304

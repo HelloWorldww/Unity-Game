@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 55bb1afff10b5f54fb83ccc425954b22
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236665
+  packageName: Idle Farmer Game (Tycoon Template)
+  packageVersion: 1.0
+  assetPath: Assets/DamoncStudios/Animations/walk_basket.anim
+  uploadId: 543304

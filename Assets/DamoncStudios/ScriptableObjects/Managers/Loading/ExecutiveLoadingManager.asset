@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 099886033f8f54740871858f61cfb444, type: 3}
+  m_Name: ExecutiveLoadingManager
+  m_EditorClassIdentifier: 
+  ManagerType: 2
+  LevelColor: {r: 0.6284591, g: 0.43867922, b: 1, a: 1}
+  Index: 4
+  OriginalIndex: 21
+  Name: Leo
+  BoostType: 1
+  BoostIcon: {fileID: 935709269, guid: 913dab7ed4074554c8a39027eb5a81e6, type: 3}
+  Manager: {fileID: 21300000, guid: 3318cb3be91b23346b972386443b84a7, type: 3}
+  ManagerIcon: {fileID: 21300000, guid: 429ffc4885484934b8fe5db4ff3acf89, type: 3}
+  BoostDuration: 7
+  BoostDescription: x6 Harvesting Speed
+  BoostValue: 6

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8f8733f10e350d64087b650cb4eaad23
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236665
+  packageName: Idle Farmer Game (Tycoon Template)
+  packageVersion: 1.0
+  assetPath: Assets/DamoncStudios/Resources/DOTweenSettings.asset
+  uploadId: 543304

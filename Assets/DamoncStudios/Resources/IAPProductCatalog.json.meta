@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 58fdbba97d336cb449937eb9b7e29042
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236665
+  packageName: Idle Farmer Game (Tycoon Template)
+  packageVersion: 1.0
+  assetPath: Assets/DamoncStudios/Resources/IAPProductCatalog.json
+  uploadId: 543304

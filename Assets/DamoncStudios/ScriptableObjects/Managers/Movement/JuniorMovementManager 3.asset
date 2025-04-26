@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 099886033f8f54740871858f61cfb444, type: 3}
+  m_Name: JuniorMovementManager 3
+  m_EditorClassIdentifier: 
+  ManagerType: 0
+  LevelColor: {r: 0.7176471, g: 0.7176471, b: 0.7176471, a: 1}
+  Index: 0
+  OriginalIndex: 0
+  Name: Martin
+  BoostType: 0
+  BoostIcon: {fileID: -523008258, guid: 913dab7ed4074554c8a39027eb5a81e6, type: 3}
+  Manager: {fileID: 21300000, guid: 829ee70dc32b8f342b5fbf91db9792e0, type: 3}
+  ManagerIcon: {fileID: 21300000, guid: b788696b8d3edf846b94444fb8ec1084, type: 3}
+  BoostDuration: 1
+  BoostDescription: 50% Move Speed
+  BoostValue: 1.5

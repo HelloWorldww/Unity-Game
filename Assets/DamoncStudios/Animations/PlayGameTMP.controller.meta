@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cfc74b2fa65c3a8429d1f35adfe7e6df
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236665
+  packageName: Idle Farmer Game (Tycoon Template)
+  packageVersion: 1.0
+  assetPath: Assets/DamoncStudios/Animations/PlayGameTMP.controller
+  uploadId: 543304

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 10d17969e1ad26641b2acdec79d4715f
+timeCreated: 1500032966
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236665
+  packageName: Idle Farmer Game (Tycoon Template)
+  packageVersion: 1.0
+  assetPath: Assets/DamoncStudios/ThirdPartyAssets/BayatGames/SaveGameFree/Examples/Save
+    Rotation/ExampleSaveRotation.cs
+  uploadId: 543304

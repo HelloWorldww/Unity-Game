@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e0fc841429fe9f24c83022ef828055f9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236665
+  packageName: Idle Farmer Game (Tycoon Template)
+  packageVersion: 1.0
+  assetPath: Assets/DamoncStudios/Prefabs/ShaftWorkManager.prefab
+  uploadId: 543304

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 542c8c03a87f24e42a39bb290d368141
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236665
+  packageName: Idle Farmer Game (Tycoon Template)
+  packageVersion: 1.0
+  assetPath: Assets/DamoncStudios/ScriptableObjects/Managers/Movement/JuniorMovementManager.asset
+  uploadId: 543304

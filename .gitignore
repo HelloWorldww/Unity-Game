@@ -1,0 +1,57 @@
+# ========== Unity ==========
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Rider
+.idea/
+*.sln.iml
+
+# VS/VSCode
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Unity Asset Meta
+*.pidb.meta
+*.booproj
+*.svd
+
+# Cache / local settings
+*.pidb
+*.booproj
+*.suo
+*.user
+*.userprefs
+*.unitypackage
+
+# Auto-generated
+ExportedObj/
+*.apk
+*.aab
+*.app
+*.xcworkspace
+*.xcuserstate
+
+# Crash logs
+sysinfo.txt
+
+# Git LFS (你可以自己加哪些副檔名要用 LFS)
+# *.psd
+# *.fbx
+# *.mp4
+# *.wav

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 099886033f8f54740871858f61cfb444, type: 3}
+  m_Name: SeniorMovementManager 2
+  m_EditorClassIdentifier: 
+  ManagerType: 1
+  LevelColor: {r: 1, g: 0.4923377, b: 0.1745283, a: 1}
+  Index: 3
+  OriginalIndex: 12
+  Name: Carl
+  BoostType: 0
+  BoostIcon: {fileID: -523008258, guid: 913dab7ed4074554c8a39027eb5a81e6, type: 3}
+  Manager: {fileID: 21300000, guid: 801e60fb7bdb7ed458b3516daddc694e, type: 3}
+  ManagerIcon: {fileID: 21300000, guid: 2505f91c1366e5a48a956f0567db4bac, type: 3}
+  BoostDuration: 3
+  BoostDescription: 150% Move Speed
+  BoostValue: 2.2

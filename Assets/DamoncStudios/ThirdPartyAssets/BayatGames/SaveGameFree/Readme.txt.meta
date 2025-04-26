@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8e008910deacfb64bac94831989143d6
+timeCreated: 1501081393
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236665
+  packageName: Idle Farmer Game (Tycoon Template)
+  packageVersion: 1.0
+  assetPath: Assets/DamoncStudios/ThirdPartyAssets/BayatGames/SaveGameFree/Readme.txt
+  uploadId: 543304

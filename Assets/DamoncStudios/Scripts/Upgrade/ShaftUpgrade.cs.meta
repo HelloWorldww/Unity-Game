@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f38bce99111dc3c42a3e0733a3dabc04
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236665
+  packageName: Idle Farmer Game (Tycoon Template)
+  packageVersion: 1.0
+  assetPath: Assets/DamoncStudios/Scripts/Upgrade/ShaftUpgrade.cs
+  uploadId: 543304
